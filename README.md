@@ -1,6 +1,6 @@
 # [**Alexandr V**](https://www.github.com/stdg3)
 
-### Citizen G3, но это не точно)
+### Citizen G3, но это не точно
 
 ```python
 
